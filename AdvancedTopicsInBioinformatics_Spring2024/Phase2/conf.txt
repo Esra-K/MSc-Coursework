@@ -1,0 +1,10 @@
+receptor	= 8fd9_protein_only.pdbqt
+ligand	= 8fd9_ligand_only.pdbqt
+
+center_x	= 17.156
+center_y	= 0.613
+center_z	= -8.73
+
+size_x	= 10
+size_y	= 16
+size_z	= 18

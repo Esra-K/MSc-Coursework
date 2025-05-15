@@ -1,0 +1,10 @@
+%chk=C:\Users\hp\Desktop\Chem402210676\Part1\Li.chk
+# opt freq b3lyp/6-31+g(d) geom=connectivity
+
+M0001
+
+1 1
+ Li                 0.00000000    0.00000000    1.00000000
+
+ 1
+
